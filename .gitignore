@@ -1,3 +1,4 @@
 *.json
 *.log
 HelloServer/build
+*.txt
