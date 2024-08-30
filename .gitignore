@@ -1,4 +1,5 @@
 *.json
 *.log
 HelloServer/build
+TestHelloClient/build
 *.txt
